@@ -14,7 +14,7 @@
 
 ### Портфолио
 
-- [Чек-листы]()
+- [Чек-листы](https://docs.google.com/spreadsheets/d/1yQvQ2UI44LdCom9oVIpdlLhXkm9DGMzE_zLx3TyWbHQ/edit?hl=ru&gid=0#gid=0)
 - [Тест-кейсы]()
 - [Mind map]()
 - [Баг-репорты]()

@@ -20,8 +20,13 @@
 - Баг-репорты:
     * [Adder](https://docs.google.com/spreadsheets/d/1BfyvvFxu5x9DP_7ZnkpskkNxzifPng1qggvWop_k3dg/edit?gid=0#gid=0)
     * [Проект Abra (запись экрана с ClickUp)](https://drive.google.com/file/d/11Tud_XaylGjVc0IuKSl31TtSs6A7TzxA/view?usp=drive_link)
-    * [Money tracker](https://drive.google.com/file/d/1oRlv2i_jNsS_C_s2jrn7Kd3SLo_hPgL-/view?usp=drive_link)
-- [Коллекция в Postman]()
+    * [Money tracke (скрин с Trello)](https://drive.google.com/file/d/1oRlv2i_jNsS_C_s2jrn7Kd3SLo_hPgL-/view?usp=drive_link)
   
+### Инструменты и технологии
+
 ### Мои контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/MeTeacher_Kate)
+![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)
+![What's App](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)
   

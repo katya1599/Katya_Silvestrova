@@ -18,8 +18,9 @@
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1fsOshxHgqD-Ph3rWHNHsIrlD-hwFKLROgbkicFCamC8/edit?gid=1839822873#gid=1839822873)
 - [Mind map](https://mm.tt/app/map/3358827207?t=Oi3lciCphv)
 - Баг-репорты:
-    * [Проект Abra (запись экрана с ClickUp)]()
-    * 
+    * [Adder](https://docs.google.com/spreadsheets/d/1BfyvvFxu5x9DP_7ZnkpskkNxzifPng1qggvWop_k3dg/edit?gid=0#gid=0)
+    * [Проект Abra (запись экрана с ClickUp)](https://drive.google.com/file/d/11Tud_XaylGjVc0IuKSl31TtSs6A7TzxA/view?usp=drive_link)
+    * [Money tracker](https://drive.google.com/file/d/1oRlv2i_jNsS_C_s2jrn7Kd3SLo_hPgL-/view?usp=drive_link)
 - [Коллекция в Postman]()
   
 ### Мои контакты

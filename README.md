@@ -27,6 +27,6 @@
 ### Мои контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/MeTeacher_Kate)
+[![What's App](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79612169769)
 ![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)
-![What's App](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)
   
